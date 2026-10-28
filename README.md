@@ -1,3 +1,4 @@
+
 # 🍳 Smart Recipe Selector
 
 A modern, responsive React mini-project built with **React**, **Vite**, **JavaScript**, **Plain CSS**, **LocalStorage**, and **React Router**.
@@ -118,3 +119,6 @@ npm run preview
 - **`useMemo` in `RecipeContext`**: Demonstrates memoizing filtered and sorted arrays so expensive search calculations only re-run when filter dependencies change.
 - **Controlled Components**: The search input, range slider, and select dropdowns demonstrate idiomatic React controlled forms.
 - **Dynamic Calculation**: The serving scaler in `RecipeModal` shows how to dynamically compute scaled ingredients using `ratio = servings / baseServings` without mutating original data.
+=======
+# smart-recipe-selector
+
