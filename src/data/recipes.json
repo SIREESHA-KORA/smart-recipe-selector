@@ -1,0 +1,472 @@
+[
+  {
+    "id": "recipe-1",
+    "title": "Creamy Tuscan Garlic Chicken",
+    "description": "Tender chicken breasts in a rich garlic, sun-dried tomato, and baby spinach cream sauce.",
+    "image": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?w=800&auto=format&fit=crop&q=80",
+    "mealType": "Dinner",
+    "difficulty": "Medium",
+    "prepTime": 10,
+    "cookTime": 25,
+    "servings": 4,
+    "calories": 480,
+    "rating": 4.9,
+    "reviewCount": 184,
+    "tags": ["High-Protein", "Italian", "Comfort Food", "Keto-Friendly"],
+    "ingredients": [
+      { "name": "Chicken Breast", "amount": 2, "unit": "pieces" },
+      { "name": "Garlic", "amount": 4, "unit": "cloves (minced)" },
+      { "name": "Heavy Cream", "amount": 1, "unit": "cup" },
+      { "name": "Baby Spinach", "amount": 2, "unit": "cups" },
+      { "name": "Sun-dried Tomatoes", "amount": 0.5, "unit": "cup" },
+      { "name": "Olive Oil", "amount": 2, "unit": "tbsp" },
+      { "name": "Parmesan Cheese", "amount": 0.5, "unit": "cup (grated)" }
+    ],
+    "instructions": [
+      "Season chicken breasts generously with salt, black pepper, and Italian dried herbs.",
+      "Heat olive oil in a large skillet over medium-high heat. Sear chicken for 6-8 minutes per side until golden and cooked through. Transfer to a clean plate.",
+      "In the same skillet, reduce heat to medium. Sauté minced garlic and sun-dried tomatoes for 1-2 minutes until fragrant.",
+      "Pour in heavy cream and chicken broth; bring to a gentle simmer for 3 minutes.",
+      "Stir in baby spinach and grated parmesan cheese until spinach wilts and sauce becomes silky.",
+      "Return seared chicken to the skillet, spoon creamy sauce over top, and serve warm with crusty bread or pasta."
+    ]
+  },
+  {
+    "id": "recipe-2",
+    "title": "Classic Avocado Toast with Poached Egg",
+    "description": "Crispy sourdough toast topped with creamy seasoned avocado, chili flakes, and a delicate runny poached egg.",
+    "image": "https://images.unsplash.com/photo-1525351484163-7529414344d8?w=800&auto=format&fit=crop&q=80",
+    "mealType": "Breakfast",
+    "difficulty": "Easy",
+    "prepTime": 5,
+    "cookTime": 10,
+    "servings": 2,
+    "calories": 320,
+    "rating": 4.8,
+    "reviewCount": 142,
+    "tags": ["Vegetarian", "Quick", "Healthy", "Breakfast Favorite"],
+    "ingredients": [
+      { "name": "Avocado", "amount": 1, "unit": "ripe" },
+      { "name": "Eggs", "amount": 2, "unit": "large" },
+      { "name": "Sourdough Bread", "amount": 2, "unit": "slices" },
+      { "name": "Lemon", "amount": 0.5, "unit": "juiced" },
+      { "name": "Olive Oil", "amount": 1, "unit": "tsp" },
+      { "name": "Red Pepper Flakes", "amount": 0.5, "unit": "tsp" },
+      { "name": "Salt & Pepper", "amount": 1, "unit": "pinch" }
+    ],
+    "instructions": [
+      "Toast sourdough slices until deep golden brown and crisp.",
+      "In a small bowl, mash ripe avocado with fresh lemon juice, sea salt, and freshly cracked black pepper.",
+      "Bring a small pot of water with a dash of vinegar to a gentle simmer. Swirl the water to form a vortex and gently slip in the cracked eggs. Poach for 3 minutes.",
+      "Spread mashed avocado evenly over each toasted bread slice.",
+      "Carefully top with poached eggs, drizzle with extra virgin olive oil, and finish with red pepper flakes and microgreens."
+    ]
+  },
+  {
+    "id": "recipe-3",
+    "title": "Fresh Mediterranean Greek Salad",
+    "description": "Vibrant garden cucumbers, ripe cherry tomatoes, Kalamata olives, and crumbly feta tossed in zesty herb vinaigrette.",
+    "image": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=800&auto=format&fit=crop&q=80",
+    "mealType": "Lunch",
+    "difficulty": "Easy",
+    "prepTime": 15,
+    "cookTime": 0,
+    "servings": 3,
+    "calories": 260,
+    "rating": 4.7,
+    "reviewCount": 98,
+    "tags": ["Vegetarian", "Gluten-Free", "Low-Carb", "No-Cook"],
+    "ingredients": [
+      { "name": "Cucumber", "amount": 2, "unit": "medium (sliced)" },
+      { "name": "Tomato", "amount": 3, "unit": "medium (chopped)" },
+      { "name": "Feta Cheese", "amount": 100, "unit": "grams (crumbled)" },
+      { "name": "Kalamata Olives", "amount": 0.5, "unit": "cup" },
+      { "name": "Red Onion", "amount": 0.5, "unit": "thinly sliced" },
+      { "name": "Olive Oil", "amount": 3, "unit": "tbsp" },
+      { "name": "Lemon", "amount": 1, "unit": "juiced" },
+      { "name": "Dried Oregano", "amount": 1, "unit": "tsp" }
+    ],
+    "instructions": [
+      "Chop cucumbers, tomatoes, and red onion into rustic bite-sized chunks.",
+      "Combine vegetables and Kalamata olives in a large salad bowl.",
+      "In a small glass jar, whisk extra virgin olive oil, fresh lemon juice, dried oregano, salt, and black pepper.",
+      "Drizzle dressing over the salad and gently toss to combine flavors without bruising tomatoes.",
+      "Crumble authentic Greek feta cheese over the top and dust with an extra pinch of oregano."
+    ]
+  },
+  {
+    "id": "recipe-4",
+    "title": "Spicy Thai Basil Beef Stir-Fry",
+    "description": "Savory minced beef wok-tossed with fragrant garlic, bird's eye chilies, sweet soy sauce, and fresh Thai holy basil.",
+    "image": "https://images.unsplash.com/photo-1589302168068-964664d93dc0?w=800&auto=format&fit=crop&q=80",
+    "mealType": "Dinner",
+    "difficulty": "Medium",
+    "prepTime": 10,
+    "cookTime": 15,
+    "servings": 3,
+    "calories": 510,
+    "rating": 4.9,
+    "reviewCount": 215,
+    "tags": ["Spicy", "High-Protein", "Asian Cuisine", "Quick Dinner"],
+    "ingredients": [
+      { "name": "Minced Beef", "amount": 400, "unit": "grams" },
+      { "name": "Garlic", "amount": 5, "unit": "cloves (crushed)" },
+      { "name": "Thai Basil", "amount": 1.5, "unit": "cups (fresh leaves)" },
+      { "name": "Soy Sauce", "amount": 2, "unit": "tbsp" },
+      { "name": "Oyster Sauce", "amount": 1.5, "unit": "tbsp" },
+      { "name": "Chili", "amount": 3, "unit": "small (chopped)" },
+      { "name": "Jasmine Rice", "amount": 2, "unit": "cups (cooked)" }
+    ],
+    "instructions": [
+      "Pound garlic and fresh chilies in a mortar and pestle into a coarse aromatic paste.",
+      "Heat a wok or heavy cast iron skillet over high heat with 1 tablespoon of cooking oil.",
+      "Add garlic-chili paste and sizzle for 30 seconds until intensely aromatic.",
+      "Add minced beef, breaking it apart with a spatula, cooking vigorously for 4-5 minutes until browned.",
+      "Stir in oyster sauce, soy sauce, and a dash of sugar; stir-fry until sauce glazes the meat.",
+      "Turn off heat, immediately fold in fresh Thai basil leaves until gently wilted, and serve hot over jasmine rice."
+    ]
+  },
+  {
+    "id": "recipe-5",
+    "title": "Authentic Italian Spaghetti Carbonara",
+    "description": "Silky Roman pasta dish prepared traditionally with crispy cured pork, egg yolks, pecorino cheese, and black pepper.",
+    "image": "https://images.unsplash.com/photo-1612874742237-6526221588e3?w=800&auto=format&fit=crop&q=80",
+    "mealType": "Dinner",
+    "difficulty": "Medium",
+    "prepTime": 10,
+    "cookTime": 20,
+    "servings": 4,
+    "calories": 560,
+    "rating": 4.9,
+    "reviewCount": 267,
+    "tags": ["Italian", "Classic", "Pasta Lover", "Comfort Food"],
+    "ingredients": [
+      { "name": "Spaghetti Pasta", "amount": 350, "unit": "grams" },
+      { "name": "Pancetta or Bacon", "amount": 150, "unit": "grams (cubed)" },
+      { "name": "Eggs", "amount": 3, "unit": "large (yolks + 1 whole)" },
+      { "name": "Parmesan Cheese", "amount": 0.75, "unit": "cup (finely grated)" },
+      { "name": "Black Pepper", "amount": 1.5, "unit": "tsp (coarse freshly ground)" },
+      { "name": "Salt", "amount": 1, "unit": "tbsp (for pasta water)" }
+    ],
+    "instructions": [
+      "Bring a large pot of salted water to a rolling boil. Cook spaghetti until al dente (about 8-9 minutes), reserving 1 cup of pasta water.",
+      "In a skillet over medium heat, fry pancetta until golden and crisp (6-7 minutes). Remove from heat.",
+      "In a bowl, whisk together egg yolks, whole egg, grated parmesan cheese, and freshly cracked black pepper into a smooth paste.",
+      "Add drained hot spaghetti directly into the pan with pancetta off the heat.",
+      "Pour egg-cheese mixture into warm pasta while tossing continuously, adding splashes of hot pasta water to build a silky emulsified sauce.",
+      "Plate immediately with extra grated cheese and fresh black pepper."
+    ]
+  },
+  {
+    "id": "recipe-6",
+    "title": "Fluffy Berry Buttermilk Pancakes",
+    "description": "Golden, cloud-soft buttermilk pancakes layered with fresh wild blueberries and pure warm maple syrup.",
+    "image": "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?w=800&auto=format&fit=crop&q=80",
+    "mealType": "Breakfast",
+    "difficulty": "Easy",
+    "prepTime": 10,
+    "cookTime": 15,
+    "servings": 4,
+    "calories": 390,
+    "rating": 4.8,
+    "reviewCount": 164,
+    "tags": ["Sweet", "Breakfast Favorite", "Family Friendly", "Weekend Brunch"],
+    "ingredients": [
+      { "name": "Flour", "amount": 2, "unit": "cups" },
+      { "name": "Buttermilk", "amount": 1.75, "unit": "cups" },
+      { "name": "Eggs", "amount": 2, "unit": "large" },
+      { "name": "Butter", "amount": 3, "unit": "tbsp (melted)" },
+      { "name": "Sugar", "amount": 2, "unit": "tbsp" },
+      { "name": "Baking Powder", "amount": 2, "unit": "tsp" },
+      { "name": "Blueberries", "amount": 1, "unit": "cup (fresh)" },
+      { "name": "Maple Syrup", "amount": 4, "unit": "tbsp" }
+    ],
+    "instructions": [
+      "Whisk flour, sugar, baking powder, baking soda, and a pinch of salt in a large mixing bowl.",
+      "In another bowl, whisk buttermilk, eggs, and melted butter.",
+      "Gently fold wet ingredients into dry ingredients until combined (small lumps help keep pancakes light and airy).",
+      "Heat a lightly greased non-stick skillet over medium-low heat. Ladle 1/4 cup batter per pancake.",
+      "Scatter fresh blueberries onto the batter. Cook until bubbles burst on surface, flip and cook 1-2 minutes until golden.",
+      "Stack on warm plates, top with extra berries, and pour warm maple syrup over top."
+    ]
+  },
+  {
+    "id": "recipe-7",
+    "title": "Crispy Baked Honey Garlic Salmon",
+    "description": "Oven-roasted wild salmon fillets coated in a sticky, sweet-and-savory caramelized honey garlic glaze.",
+    "image": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?w=800&auto=format&fit=crop&q=80",
+    "mealType": "Dinner",
+    "difficulty": "Easy",
+    "prepTime": 8,
+    "cookTime": 15,
+    "servings": 2,
+    "calories": 440,
+    "rating": 4.9,
+    "reviewCount": 178,
+    "tags": ["Seafood", "Omega-3", "High-Protein", "Gluten-Free Option"],
+    "ingredients": [
+      { "name": "Salmon Fillets", "amount": 2, "unit": "fillets" },
+      { "name": "Garlic", "amount": 3, "unit": "cloves (minced)" },
+      { "name": "Honey", "amount": 3, "unit": "tbsp" },
+      { "name": "Soy Sauce", "amount": 2, "unit": "tbsp" },
+      { "name": "Lemon", "amount": 1, "unit": "juiced & sliced" },
+      { "name": "Olive Oil", "amount": 1, "unit": "tbsp" }
+    ],
+    "instructions": [
+      "Preheat oven to 400°F (200°C) and line a baking sheet with foil.",
+      "In a small saucepan, simmer minced garlic, honey, soy sauce, and 1 tbsp lemon juice for 3 minutes until thickened.",
+      "Place salmon fillets on baking sheet; brush generously on all sides with honey garlic glaze.",
+      "Bake for 12-14 minutes until salmon flakes gently with a fork.",
+      "Switch oven to broil for 2 minutes to caramelize the glazed top into a golden glaze.",
+      "Garnish with lemon slices and chopped parsley before serving with steamed greens."
+    ]
+  },
+  {
+    "id": "recipe-8",
+    "title": "Creamy Roasted Tomato Basil Soup",
+    "description": "Comforting slow-roasted Roma tomatoes and sweet garlic simmered into a velvety herbal soup.",
+    "image": "https://images.unsplash.com/photo-1547592166-23ac45744acd?w=800&auto=format&fit=crop&q=80",
+    "mealType": "Lunch",
+    "difficulty": "Easy",
+    "prepTime": 10,
+    "cookTime": 35,
+    "servings": 4,
+    "calories": 210,
+    "rating": 4.6,
+    "reviewCount": 112,
+    "tags": ["Vegetarian", "Healthy", "Comfort Food", "Gluten-Free"],
+    "ingredients": [
+      { "name": "Tomato", "amount": 8, "unit": "Roma (halved)" },
+      { "name": "Garlic", "amount": 6, "unit": "cloves" },
+      { "name": "Olive Oil", "amount": 3, "unit": "tbsp" },
+      { "name": "Vegetable Broth", "amount": 2, "unit": "cups" },
+      { "name": "Fresh Basil", "amount": 1, "unit": "cup (packed)" },
+      { "name": "Heavy Cream", "amount": 0.25, "unit": "cup" },
+      { "name": "Salt & Pepper", "amount": 1, "unit": "tsp" }
+    ],
+    "instructions": [
+      "Preheat oven to 400°F (200°C). Arrange tomato halves and peeled garlic on a baking sheet; toss with olive oil, salt, and pepper.",
+      "Roast for 25 minutes until caramelized and tender.",
+      "Transfer roasted vegetables to a soup pot with vegetable broth. Bring to a boil, then simmer on low for 10 minutes.",
+      "Toss in fresh basil leaves and puree until velvety smooth using an immersion blender.",
+      "Stir in heavy cream, taste and adjust seasoning, and ladle into warm soup bowls."
+    ]
+  },
+  {
+    "id": "recipe-9",
+    "title": "Golden Parmesan Garlic Roasted Potatoes",
+    "description": "Crispy on the outside, fluffy on the inside baby potatoes tossed in garlic herb butter and grated parmesan.",
+    "image": "https://images.unsplash.com/photo-1576107232684-1279f3908594?w=800&auto=format&fit=crop&q=80",
+    "mealType": "Snack",
+    "difficulty": "Easy",
+    "prepTime": 10,
+    "cookTime": 35,
+    "servings": 4,
+    "calories": 240,
+    "rating": 4.8,
+    "reviewCount": 139,
+    "tags": ["Snack", "Vegetarian", "Side Dish", "Crowd Pleaser"],
+    "ingredients": [
+      { "name": "Baby Potatoes", "amount": 600, "unit": "grams (halved)" },
+      { "name": "Olive Oil", "amount": 2, "unit": "tbsp" },
+      { "name": "Butter", "amount": 2, "unit": "tbsp (melted)" },
+      { "name": "Garlic", "amount": 4, "unit": "cloves (minced)" },
+      { "name": "Parmesan Cheese", "amount": 0.5, "unit": "cup (finely grated)" },
+      { "name": "Rosemary", "amount": 1, "unit": "tbsp (chopped)" },
+      { "name": "Salt & Pepper", "amount": 1, "unit": "tsp" }
+    ],
+    "instructions": [
+      "Preheat oven to 425°F (220°C).",
+      "Toss halved potatoes with olive oil, melted butter, minced garlic, sea salt, black pepper, and chopped rosemary.",
+      "Spread potatoes cut-side down onto a baking tray coated with parmesan cheese.",
+      "Roast for 30-35 minutes until the cut crust is deeply golden, crispy, and savory.",
+      "Sprinkle with fresh parsley and serve alongside dipping garlic aioli."
+    ]
+  },
+  {
+    "id": "recipe-10",
+    "title": "Classic Decadent Chocolate Lava Cake",
+    "description": "Rich individual warm chocolate cakes with a molten, gooey chocolate center that flows upon cutting.",
+    "image": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=800&auto=format&fit=crop&q=80",
+    "mealType": "Dessert",
+    "difficulty": "Hard",
+    "prepTime": 15,
+    "cookTime": 13,
+    "servings": 2,
+    "calories": 520,
+    "rating": 4.9,
+    "reviewCount": 195,
+    "tags": ["Dessert", "Chocolate", "Indulgent", "Date Night"],
+    "ingredients": [
+      { "name": "Dark Chocolate", "amount": 100, "unit": "grams (chopped)" },
+      { "name": "Butter", "amount": 80, "unit": "grams" },
+      { "name": "Eggs", "amount": 2, "unit": "large eggs + 1 yolk" },
+      { "name": "Sugar", "amount": 3, "unit": "tbsp" },
+      { "name": "Flour", "amount": 2, "unit": "tbsp" },
+      { "name": "Vanilla Extract", "amount": 0.5, "unit": "tsp" }
+    ],
+    "instructions": [
+      "Preheat oven to 425°F (220°C). Butter two 6-ounce ramekins and dust with cocoa powder.",
+      "Gently melt dark chocolate and butter together in a heatproof bowl set over simmering water.",
+      "In another bowl, whisk eggs, egg yolk, sugar, and vanilla until pale and airy.",
+      "Fold melted chocolate mixture into eggs, then gently sift in flour until just incorporated.",
+      "Divide batter between ramekins and bake for exactly 12-13 minutes (edges should be firm, centers soft).",
+      "Let sit for 1 minute, invert onto dessert plates, dust with powdered sugar, and serve immediately with vanilla bean ice cream."
+    ]
+  },
+  {
+    "id": "recipe-11",
+    "title": "Avocado & Chickpea Power Buddha Bowl",
+    "description": "Nourishing wholesome grain bowl packed with roasted spiced chickpeas, creamy avocado, quinoa, and tahini lemon dressing.",
+    "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=800&auto=format&fit=crop&q=80",
+    "mealType": "Lunch",
+    "difficulty": "Easy",
+    "prepTime": 15,
+    "cookTime": 20,
+    "servings": 2,
+    "calories": 420,
+    "rating": 4.7,
+    "reviewCount": 87,
+    "tags": ["Vegan", "High-Fiber", "Healthy", "Plant-Based"],
+    "ingredients": [
+      { "name": "Cooked Quinoa", "amount": 1.5, "unit": "cups" },
+      { "name": "Chickpeas", "amount": 1, "unit": "can (drained & roasted)" },
+      { "name": "Avocado", "amount": 1, "unit": "sliced" },
+      { "name": "Baby Spinach", "amount": 2, "unit": "cups" },
+      { "name": "Cucumber", "amount": 1, "unit": "diced" },
+      { "name": "Tahini", "amount": 2, "unit": "tbsp" },
+      { "name": "Lemon", "amount": 1, "unit": "juiced" },
+      { "name": "Olive Oil", "amount": 1, "unit": "tbsp" }
+    ],
+    "instructions": [
+      "Toss drained chickpeas with olive oil, cumin, paprika, salt, and roast at 400°F (200°C) for 20 minutes until crisp.",
+      "In a small bowl, whisk tahini, fresh lemon juice, warm water, and minced garlic into a pourable dressing.",
+      "Arrange warm quinoa and fresh baby spinach in the base of two wide serving bowls.",
+      "Top artfully with crispy roasted chickpeas, sliced avocado, diced cucumber, and cherry tomatoes.",
+      "Drizzle with tahini lemon dressing and sprinkle toasted sesame seeds."
+    ]
+  },
+  {
+    "id": "recipe-12",
+    "title": "Fragrant Chicken Tikka Masala",
+    "description": "Marinated grilled chicken pieces submerged in an aromatic, velvety spiced tomato and cream gravy.",
+    "image": "https://images.unsplash.com/photo-1565557623262-b51c2513a641?w=800&auto=format&fit=crop&q=80",
+    "mealType": "Dinner",
+    "difficulty": "Hard",
+    "prepTime": 20,
+    "cookTime": 35,
+    "servings": 4,
+    "calories": 580,
+    "rating": 4.9,
+    "reviewCount": 312,
+    "tags": ["Indian", "Spicy", "High-Protein", "Curry Delight"],
+    "ingredients": [
+      { "name": "Chicken Breast", "amount": 600, "unit": "grams (cubed)" },
+      { "name": "Plain Yogurt", "amount": 0.5, "unit": "cup" },
+      { "name": "Garlic", "amount": 5, "unit": "cloves (paste)" },
+      { "name": "Tomato Puree", "amount": 1.5, "unit": "cups" },
+      { "name": "Heavy Cream", "amount": 0.75, "unit": "cup" },
+      { "name": "Garam Masala", "amount": 2, "unit": "tsp" },
+      { "name": "Butter", "amount": 2, "unit": "tbsp" },
+      { "name": "Basmati Rice", "amount": 2, "unit": "cups (cooked)" }
+    ],
+    "instructions": [
+      "Marinate chicken cubes with yogurt, garlic paste, ginger, cumin, paprika, and garam masala for 20 minutes.",
+      "Sear chicken in a hot skillet with 1 tbsp oil until lightly charred around edges (approx 6-8 minutes). Remove.",
+      "Melt butter in the skillet, sauté diced onion, garlic, and remaining spices until aromatic and soft.",
+      "Add tomato puree, bring to a gentle simmer for 15 minutes until darkened in color.",
+      "Stir in heavy cream and return seared chicken to sauce; simmer on low for 10 minutes.",
+      "Garnish with fresh cilantro leaves and serve with warm butter naan and basmati rice."
+    ]
+  },
+  {
+    "id": "recipe-13",
+    "title": "Strawberry Banana Chia Energy Smoothie",
+    "description": "Quick, creamy and invigorating smoothie blended with frozen berries, ripe banana, almond milk, and nutrient-dense chia seeds.",
+    "image": "https://images.unsplash.com/photo-1553530666-ba11a7da3888?w=800&auto=format&fit=crop&q=80",
+    "mealType": "Snack",
+    "difficulty": "Easy",
+    "prepTime": 5,
+    "cookTime": 0,
+    "servings": 1,
+    "calories": 210,
+    "rating": 4.6,
+    "reviewCount": 74,
+    "tags": ["Vegan", "Quick", "Drink", "Healthy Snack"],
+    "ingredients": [
+      { "name": "Strawberries", "amount": 1, "unit": "cup (frozen)" },
+      { "name": "Banana", "amount": 1, "unit": "ripe (fresh or frozen)" },
+      { "name": "Almond Milk", "amount": 1, "unit": "cup" },
+      { "name": "Chia Seeds", "amount": 1, "unit": "tbsp" },
+      { "name": "Honey", "amount": 1, "unit": "tsp" }
+    ],
+    "instructions": [
+      "Add almond milk into blender container first for smooth vortex action.",
+      "Add banana slices, frozen strawberries, chia seeds, and honey.",
+      "Blend on high speed for 60 seconds until completely creamy and velvety.",
+      "Pour into a chilled tall glass and top with chia seeds or fresh strawberry slices."
+    ]
+  },
+  {
+    "id": "recipe-14",
+    "title": "Loaded Italian Caprese Panini",
+    "description": "Warm, pressed ciabatta sandwich filled with thick buffalo mozzarella, vine tomatoes, basil pesto, and balsamic glaze.",
+    "image": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?w=800&auto=format&fit=crop&q=80",
+    "mealType": "Lunch",
+    "difficulty": "Easy",
+    "prepTime": 8,
+    "cookTime": 8,
+    "servings": 2,
+    "calories": 460,
+    "rating": 4.8,
+    "reviewCount": 105,
+    "tags": ["Vegetarian", "Quick Lunch", "Italian", "Sandwich"],
+    "ingredients": [
+      { "name": "Ciabatta Bread", "amount": 2, "unit": "rolls" },
+      { "name": "Mozzarella Cheese", "amount": 200, "unit": "grams (sliced)" },
+      { "name": "Tomato", "amount": 2, "unit": "ripe vine (sliced)" },
+      { "name": "Fresh Basil", "amount": 10, "unit": "leaves" },
+      { "name": "Basil Pesto", "amount": 3, "unit": "tbsp" },
+      { "name": "Olive Oil", "amount": 1, "unit": "tbsp" }
+    ],
+    "instructions": [
+      "Slice ciabatta rolls in half horizontally.",
+      "Spread basil pesto generously across bottom and top halves.",
+      "Layer thick fresh mozzarella slices, tomato slices, fresh basil leaves, and season with salt and pepper.",
+      "Brush outer crust lightly with olive oil.",
+      "Press in a hot panini press (or skillet with a heavy pan weighing it down) for 6-8 minutes until bread is crunchy and cheese is molten and stretchy.",
+      "Slice diagonally and drizzle with sweet aged balsamic reduction."
+    ]
+  },
+  {
+    "id": "recipe-15",
+    "title": "Creamy Mango Panna Cotta with Berry Coulis",
+    "description": "Silky smooth Italian sweet vanilla cream dessert infused with tropical mango puree and tart raspberry glaze.",
+    "image": "https://images.unsplash.com/photo-1488477181946-6428a0291777?w=800&auto=format&fit=crop&q=80",
+    "mealType": "Dessert",
+    "difficulty": "Medium",
+    "prepTime": 15,
+    "cookTime": 10,
+    "servings": 4,
+    "calories": 290,
+    "rating": 4.8,
+    "reviewCount": 89,
+    "tags": ["Dessert", "Gluten-Free", "Chilled", "Elegant"],
+    "ingredients": [
+      { "name": "Heavy Cream", "amount": 1.5, "unit": "cups" },
+      { "name": "Whole Milk", "amount": 0.5, "unit": "cup" },
+      { "name": "Sugar", "amount": 0.33, "unit": "cup" },
+      { "name": "Gelatin", "amount": 2.25, "unit": "tsp (powdered)" },
+      { "name": "Vanilla Extract", "amount": 1, "unit": "tsp" },
+      { "name": "Mango Puree", "amount": 0.75, "unit": "cup" }
+    ],
+    "instructions": [
+      "Sprinkle gelatin powder over 3 tbsp cold water in a bowl and let bloom for 5 minutes.",
+      "In a saucepan, heat heavy cream, milk, and sugar over medium heat until sugar dissolves (do not boil).",
+      "Remove pan from heat, stir in bloomed gelatin and vanilla extract until completely dissolved.",
+      "Whisk in mango puree until smooth and uniform.",
+      "Pour into glasses or ramekins and chill in refrigerator for at least 4 hours until set.",
+      "Serve chilled topped with fresh raspberries and a mint sprig."
+    ]
+  }
+]
